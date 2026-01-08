@@ -1,6 +1,6 @@
 <h1>Travel Packing Checklist</h1>
 
-https://pizza-menux.netlify.app/
+https://travel-listx.netlify.app/
 
 <div>
   A course project for React JS training: An app that helps you decide what to pack for your travels.
