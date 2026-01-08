@@ -19,7 +19,7 @@ https://travel-listx.netlify.app/
 
 ## 🎉 Build With:
 
-- React + Tailwind CSS
+- React JS + Tailwind CSS
 - Semantic HTML5 markup
 - Css Flexbox and Grid
 - Mobile-first workflow
