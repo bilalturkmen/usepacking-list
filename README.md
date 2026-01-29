@@ -15,7 +15,7 @@ https://usepacking.netlify.app/
 - The input Value is trimmed to avoid adding items with only whitespace.
 - Some SVG icons were added as imported assets.
 
-![](./public/screenshot.png)
+![](./public/screeenshot.png)
 
 ## 🎉 Build With:
 
