@@ -1,9 +1,9 @@
-<h1>usePacking Checklist</h1>
+<h1>usePacking List</h1>
 
 https://usepacking.netlify.app/
 
 <div>
-  A React JS training project about useState and state management.
+  Training project on React JS useState and state management.
 </div>
 
 ## 👍 My Challenges:
