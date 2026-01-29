@@ -1,9 +1,9 @@
-<h1>Travel Packing Checklist</h1>
+<h1>usePacking Checklist</h1>
 
-https://travel-listx.netlify.app/
+https://usepacking.netlify.app/
 
 <div>
-  A project from a React JS training: This app that helps you decide what to pack for your travels.
+  A React JS training project about useState and state management.
 </div>
 
 ## 👍 My Challenges:

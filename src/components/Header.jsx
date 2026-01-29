@@ -8,7 +8,7 @@ function Header() {
           <SVGTravel />
         </span>
         <span className="text-4xl font-bold   text-gray-700 sm:ml-3 sm:pr-6 sm:border-r">
-          FAR AWAY
+          usePacking
         </span>
         <span className=" border-gray-400 sm:pl-3">
           Travel Packing Checklist
