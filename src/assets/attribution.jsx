@@ -1,7 +1,8 @@
 const Attribution = () => {
   return (
     <div className="border-t border-cyan-500 w-full text-sm text-cyan-600 pt-3 mt-3">
-      Training project on React JS useState and state management - Coded by{" "}
+      A Training project focused on managing state effectively with useState -
+      Coded by{" "}
       <a
         className="underline"
         href="https://bilalturkmen.com"

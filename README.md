@@ -3,7 +3,7 @@
 https://usepacking.netlify.app/
 
 <div>
-  Training project on React JS useState and state management.
+  A React app focused on managing state effectively with useState, featuring a simple interactive packing list.
 </div>
 
 ## 👍 My Challenges:
