@@ -2,9 +2,7 @@
 
 https://usepacking.netlify.app/
 
-<div>
-  A React app focused on managing state effectively with useState, featuring a simple interactive packing list.
-</div>
+A React app focused on managing state effectively with `useState`, featuring a simple interactive packing list.
 
 ## 👍 My Challenges:
 
